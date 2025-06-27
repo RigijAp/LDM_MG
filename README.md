@@ -1,6 +1,6 @@
 # Generative AI for structural design of new porous materials
 
-## 📁 LDM-GM Code
+## 📁 LDM-GM
 Implementation of the Latent Diffusion Model for generative desing realized Python.
 
 ### Contacts
