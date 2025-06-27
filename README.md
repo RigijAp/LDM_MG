@@ -4,7 +4,7 @@
 ### 📁 train database batch
 Sample database files containing geometries in two formats(📁 stp,  📁 stl) and mechanical properties: homogenization results in 📊 properties.stl  and stress-strain curve (📁 ssc).
 
-### 📁 mechanical properties calcilation
+### 📁 mechanical properties 
 FEA scripts for Matlab+COMSOL `homogenization.m` for homogenisation properties
 **Input:**  
 - Material properties: Poisson's ratio, Young's modulus, density.  
@@ -12,7 +12,7 @@ FEA scripts for Matlab+COMSOL `homogenization.m` for homogenisation properties
 **Output:**  
 - elasticity tensor; compliance tensor; density; volume  
 
-FEA scripts for Matlab+COMSOL  `stress-strain curve for a single cell.m` for homogenisation properties during pressing
+FEA scripts for Matlab+COMSOL  `stress-strain curve.m` for homogenisation properties during pressing
 **Input:**  
 - Material properties: Poisson's ratio, Young's modulus, density, plasticity curve (default: TC4 material).  
 - Geometry file in `.stp` or `.step` format.  
