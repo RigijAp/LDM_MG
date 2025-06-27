@@ -1,8 +1,49 @@
 # genAI
 ## Repository Contents
 
-### 📁 Database Examples
+### 📁 [train database batch](#train-database-batch)
 Sample database files containing material properties and structural parameters for FEA simulations.
+
+## Table of Contents
+1. [Homogenization for Lattice Structures](#homogenization-for-lattice-structures)
+2. [Prediction of Stress-Strain Curves from Geometry](#prediction-of-stress-strain-curves-from-geometry)
+3. [Input and Output](#input-and-output)
+4. [Dependencies](#dependencies)
+5. [Contact](#contact)
+
+---
+
+## Homogenization for Lattice Structures
+
+To obtain homogenized properties for a single lattice cell, use the following MatLab scripts:
+
+### 1. **Elastic Properties**
+Run the MatLab script `homogenization.m` in **COMSOL 6.2 or higher**.  
+**Input:**  
+- Material properties: Poisson's ratio, Young's modulus, density (default: TC4 material).  
+- Geometry file in `.stp` or `.step` format.  
+
+**Output:**  
+- Elasticity tensor.  
+- Compliance tensor.  
+- Density.  
+- Volume.  
+
+### 2. **Plastic Properties**
+Run the MatLab script `stress-strain curve for a single cell.m` in **COMSOL 6.2 or higher**.  
+**Input:**  
+- Material properties: Poisson's ratio, Young's modulus, density, plasticity curve (default: TC4 material).  
+- Geometry file in `.stp` or `.step` format.  
+
+**Output:**  
+- Stress values.  
+- Strain values.  
+- Z-component reaction forces.  
+
+Both scripts can be used as functions for streamlined calculations.
+
+
+
 
 ### 📁 MATLAB Console Scripts
 MATLAB scripts for finite element calculations including:
