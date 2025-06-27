@@ -31,6 +31,7 @@ Implementation of the Latent Diffusion Model for fenerative desing including.
 ## Contacts
 
 For questions or support, feel free to reach out:  
-- **Anna Step** （Anna Stepashkina): anna_step@zhejianglab.com, [RigijAp](https://github.com/RigijAp)
-
-- **Lu Zhang**:  luluzhangp@zhejianglab.com  
+- **Anna Stepashkina** - FEA: anna_step@zhejianglab.com, [RigijAp](https://github.com/RigijAp)
+- **Cuiling Wu** - LDM-GM:  wucuiling@zhejianglab.com  
+- **Lu Zhang** - LDM-GM:  luluzhang@zhejianglab.com
+- **Peng Qiu** - LLM:  qiupen@zhejianglab.com  
