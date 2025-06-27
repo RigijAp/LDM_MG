@@ -1,8 +1,8 @@
 # genAI
 ## Repository Contents
 
-### 📁 [train database batch](#train-database-batch)
-Sample database files containing material properties and structural parameters for FEA simulations.
+### 📁 train database batch
+Sample database files containing geometries in two formats(📁 stp,  📁 stl) and mechanical properties: homogenization results in **Pixel Icon** properties.stl  and stress-strain curve (📁 ssc).
 
 ## Table of Contents
 1. [Homogenization for Lattice Structures](#homogenization-for-lattice-structures)
