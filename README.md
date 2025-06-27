@@ -1,7 +1,7 @@
 # Generative AI for structural design of new porous materials
 
 ### 📁 train database batch
-Sample database files containing geometries in two formats(📁 stp,  📁 stl) and mechanical properties: homogenization results in 📊 properties.stl  and stress-strain curve (📁 ssc).
+Sample database files containing geometries in two formats (📁 stp,  📁 stl) and mechanical properties: homogenization results in 📊 properties.stl  and stress-strain curve (📁 ssc).
 
 ### 📁 mechanical properties 
 FEA scripts for Matlab+COMSOL `homogenization.m` for homogenisation properties
