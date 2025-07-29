@@ -8,13 +8,6 @@ For questions or support, feel free to reach out:
 **Cuiling Wu** - LDM-GM (graph application):  wucuiling@zhejianglab.com  
 **Lu Zhang** - LDM-GM (signed distance field):  luluzhang@zhejianglab.com
 
-## 📁 LLM
-
-  
-### Contacts
-For questions or support, feel free to reach out:  
-**The best collegues ever** - LLM:  .........@zhejianglab.com  
-
 ## 📁 train database batch
 Sample database files containing geometries in two formats (📁 stp,  📁 stl) and mechanical properties: homogenization results in 📊 properties.stl  and stress-strain curve (📁 ssc).
 
