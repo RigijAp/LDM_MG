@@ -11,6 +11,10 @@ For questions or support, feel free to reach out:
 ## 📁 train database batch
 Sample database files containing geometries in two formats (📁 stp,  📁 stl) and mechanical properties: homogenization results in 📊 properties.stl  and stress-strain curve (📁 ssc).
 
+### Contacts
+For questions or support, feel free to reach out:  
+**Anna Stepashkina** - FEA: anna_step@zhejianglab.com, [RigijAp](https://github.com/RigijAp)
+
 ## 📁 mechanical properties 
 FEA scripts for Matlab+COMSOL `homogenization.m` for homogenisation properties
 **Input:**  
