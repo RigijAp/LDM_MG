@@ -1,6 +1,6 @@
 # Generative AI for structural design of new porous materials
 
-## 📁 [LDM-MG](https://github.com/RigijAp/LDM_MG/tree/main/LDM-MG)
+##  [📁LDM-MG](https://github.com/RigijAp/LDM_MG/tree/main/LDM-MG)
 Implementation of the Latent Diffusion Model for generative desing realized on Python.
 
 ### Contacts
@@ -8,14 +8,14 @@ For questions or support, feel free to reach out:
 **Cuiling Wu** - LDM-GM (graph application):  wucuiling@zhejianglab.com  
 **Lu Zhang** - LDM-GM (signed distance field):  luluzhang@zhejianglab.com
 
-## 📁 [train database batch](https://github.com/RigijAp/LDM_MG/tree/main/train%20dataset%20batch)
+## [📁train database batch](https://github.com/RigijAp/LDM_MG/tree/main/train%20dataset%20batch)
 Sample database files containing geometries in two formats (📁 stp,  📁 stl) and mechanical properties: homogenization results in 📊 properties.stl  and stress-strain curve (📁 ssc).
 
 ### Contacts
 For questions or support, feel free to reach out:  
 **Anna Stepashkina** - FEA: anna_step@zhejianglab.com, [RigijAp](https://github.com/RigijAp)
 
-## 📁 [mechanical properties](https://github.com/RigijAp/LDM_MG/tree/main/mechanical%20properties) 
+## [📁mechanical properties](https://github.com/RigijAp/LDM_MG/tree/main/mechanical%20properties) 
 FEA scripts for Matlab+COMSOL `homogenization.m` for homogenisation properties
 **Input:**  
 - Material properties: Poisson's ratio, Young's modulus, density.  
