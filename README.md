@@ -1,6 +1,6 @@
 # Generative AI for structural design of new porous materials
 
-## 📁 LDM-MG
+## 📁 [LDM-MG](https://github.com/RigijAp/LDM_MG/tree/main/LDM-MG)
 Implementation of the Latent Diffusion Model for generative desing realized on Python.
 
 ### Contacts
